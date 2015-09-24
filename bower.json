@@ -1,0 +1,13 @@
+{
+  "name": "angular-test",
+  "description": "Learning AngularJS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/DevinXian/angular-tutorial-practise",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.4.6",
+    "angular-mocks": "1.4.6",
+    "jquery": "~2.1.1",
+    "bootstrap": "3.3.5"
+  }
+}
